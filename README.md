@@ -83,7 +83,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries, please contact [tejaschavda2020@gmail.com](mailto:tejaschavda2020@gmail.com).
 
 ---
 
